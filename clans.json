@@ -15,6 +15,118 @@
   },
   {
     "id": 102,
+    "name": "Flemish Gamers",
+    "description": "A social clan focused on skilling and PvM activities.",
+    "leader": "Gm Nostalg",
+    "isActive": true,
+    "foundedYear": 2017,
+    "totalMembers": 100,
+    "requirements": {
+      "totalLevel": 2100,
+      "combatLevel": 110,
+      "membership": true
+    }
+  },
+  {
+    "id": 103,
+    "name": "Flemish Gamers",
+    "description": "A social clan focused on skilling and PvM activities.",
+    "leader": "Gm Nostalg",
+    "isActive": true,
+    "foundedYear": 2017,
+    "totalMembers": 100,
+    "requirements": {
+      "totalLevel": 2100,
+      "combatLevel": 110,
+      "membership": true
+    }
+  },
+  {
+    "id": 104,
+    "name": "Flemish Gamers",
+    "description": "A social clan focused on skilling and PvM activities.",
+    "leader": "Gm Nostalg",
+    "isActive": true,
+    "foundedYear": 2017,
+    "totalMembers": 100,
+    "requirements": {
+      "totalLevel": 2100,
+      "combatLevel": 110,
+      "membership": true
+    }
+  },
+  {
+    "id": 105,
+    "name": "Flemish Gamers",
+    "description": "A social clan focused on skilling and PvM activities.",
+    "leader": "Gm Nostalg",
+    "isActive": true,
+    "foundedYear": 2017,
+    "totalMembers": 100,
+    "requirements": {
+      "totalLevel": 2100,
+      "combatLevel": 110,
+      "membership": true
+    }
+  },
+  {
+    "id": 106,
+    "name": "Flemish Gamers",
+    "description": "A social clan focused on skilling and PvM activities.",
+    "leader": "Gm Nostalg",
+    "isActive": true,
+    "foundedYear": 2017,
+    "totalMembers": 100,
+    "requirements": {
+      "totalLevel": 2100,
+      "combatLevel": 110,
+      "membership": true
+    }
+  },
+  {
+    "id": 107,
+    "name": "Flemish Gamers",
+    "description": "A social clan focused on skilling and PvM activities.",
+    "leader": "Gm Nostalg",
+    "isActive": true,
+    "foundedYear": 2017,
+    "totalMembers": 100,
+    "requirements": {
+      "totalLevel": 2100,
+      "combatLevel": 110,
+      "membership": true
+    }
+  },
+  {
+    "id": 108,
+    "name": "Flemish Gamers",
+    "description": "A social clan focused on skilling and PvM activities.",
+    "leader": "Gm Nostalg",
+    "isActive": true,
+    "foundedYear": 2017,
+    "totalMembers": 100,
+    "requirements": {
+      "totalLevel": 2100,
+      "combatLevel": 110,
+      "membership": true
+    }
+  },
+  {
+    "id": 109,
+    "name": "Flemish Gamers",
+    "description": "A social clan focused on skilling and PvM activities.",
+    "leader": "Gm Nostalg",
+    "isActive": true,
+    "foundedYear": 2017,
+    "totalMembers": 100,
+    "requirements": {
+      "totalLevel": 2100,
+      "combatLevel": 110,
+      "membership": true
+    }
+  },
+  {
+    "id": 110,
     "name": "Fellowship of the Code",
     "description": "A friendly and mature clan embracing social interactions and skilled gameplay.",
     "leader": "ReanuKiefs",
