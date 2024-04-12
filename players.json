@@ -18,18 +18,7 @@
     "combatLevel": 80,
     "highestSkillLevels": ["Fishing", "Strength", "Cooking"],
     "clan": {
-      "id": 101,
-      "name": "Flemish Gamers",
-      "description": "A clan for flemish people, focused on PvM.",
-      "leader": "Gm Nostalg",
-      "isActive": true,
-      "foundedYear": 2017,
-      "totalMembers": 100,
-      "requirements": {
-        "totalLevel": 2100,
-        "combatLevel": 110,
-        "membership": true
-      }
+      "id": 101
     },
     "skillLevels": {
       "Attack": 65,
@@ -88,18 +77,7 @@
     "combatLevel": 100,
     "highestSkillLevels": ["Firemaking", "Fishing", "Cooking"],
     "clan": {
-      "id": 102,
-      "name": "Fellowship of the Code",
-      "description": "A friendly and mature clan embracing social interactions and skilled gameplay.",
-      "leader": "ReanuKiefs",
-      "isActive": true,
-      "foundedYear": 2020,
-      "totalMembers": 53,
-      "requirements": {
-        "totalLevel": 1767,
-        "combatLevel": 100,
-        "membership": true
-      }
+      "id": 102
     },
     "skillLevels": {
       "Attack": 78,
@@ -157,18 +135,7 @@
     "combatLevel": 100,
     "highestSkillLevels": ["Firemaking", "Cooking", "Woodcutting"],
     "clan": {
-      "id": 101,
-      "name": "Flemish Gamers",
-      "description": "A clan for flemish people, focused on PvM.",
-      "leader": "Nostalg",
-      "isActive": true,
-      "foundedYear": 2017,
-      "totalMembers": 100,
-      "requirements": {
-        "totalLevel": 2100,
-        "combatLevel": 110,
-        "membership": true
-      }
+      "id": 103
     },
     "skillLevels": {
       "Attack": 76,
@@ -226,18 +193,7 @@
     "combatLevel": 100,
     "highestSkillLevels": ["Hitpoints", "Ranged", "Strength"],
     "clan": {
-      "id": 101,
-      "name": "Flemish Gamers",
-      "description": "A clan for flemish people, focused on PvM.",
-      "leader": "Nostalg",
-      "isActive": true,
-      "foundedYear": 2017,
-      "totalMembers": 100,
-      "requirements": {
-        "totalLevel": 2100,
-        "combatLevel": 110,
-        "membership": true
-      }
+      "id": 104
     },
     "skillLevels": {
       "Attack": 99,
@@ -295,18 +251,7 @@
     "combatLevel": 100,
     "highestSkillLevels": ["Hitpoints", "Magic", "Defence"],
     "clan": {
-      "id": 101,
-      "name": "Flemish Gamers",
-      "description": "A clan for flemish people, focused on PvM.",
-      "leader": "Nostalg",
-      "isActive": true,
-      "foundedYear": 2017,
-      "totalMembers": 100,
-      "requirements": {
-        "totalLevel": 2100,
-        "combatLevel": 110,
-        "membership": true
-      }
+      "id": 105
     },
     "skillLevels": {
       "Attack": 99,
@@ -364,18 +309,7 @@
     "combatLevel": 100,
     "highestSkillLevels": ["Strength", "Hitpoints", "Ranged"],
     "clan": {
-      "id": 101,
-      "name": "Flemish Gamers",
-      "description": "A clan for flemish people, focused on PvM.",
-      "leader": "Nostalg",
-      "isActive": true,
-      "foundedYear": 2017,
-      "totalMembers": 100,
-      "requirements": {
-        "totalLevel": 2100,
-        "combatLevel": 110,
-        "membership": true
-      }
+      "id": 106
     },
     "skillLevels": {
       "Attack": 99,
@@ -434,18 +368,7 @@
     "combatLevel": 100,
     "highestSkillLevels": ["Hitpoints", "Ranged", "Strength"],
     "clan": {
-      "id": 101,
-      "name": "Flemish Gamers",
-      "description": "A clan for flemish people, focused on PvM.",
-      "leader": "Nostalg",
-      "isActive": true,
-      "foundedYear": 2017,
-      "totalMembers": 100,
-      "requirements": {
-        "totalLevel": 2100,
-        "combatLevel": 110,
-        "membership": true
-      }
+      "id": 107
     },
     "skillLevels": {
       "Attack": 99,
@@ -504,18 +427,7 @@
     "combatLevel": 126,
     "highestSkillLevels": ["Hitpoints", "Ranged", "Strength"],
     "clan": {
-      "id": 101,
-      "name": "Flemish Gamers",
-      "description": "A clan for flemish people, focused on PvM.",
-      "leader": "Nostalg",
-      "isActive": true,
-      "foundedYear": 2017,
-      "totalMembers": 100,
-      "requirements": {
-        "totalLevel": 2100,
-        "combatLevel": 110,
-        "membership": true
-      }
+      "id": 108
     },
     "skillLevels": {
       "Attack": 99,
@@ -573,18 +485,7 @@
     "combatLevel": 100,
     "highestSkillLevels": ["Ranged", "Hitpoints", "Strength"],
     "clan": {
-      "id": 101,
-      "name": "Flemish Gamers",
-      "description": "A clan for flemish people, focused on PvM.",
-      "leader": "Nostalg",
-      "isActive": true,
-      "foundedYear": 2017,
-      "totalMembers": 100,
-      "requirements": {
-        "totalLevel": 2100,
-        "combatLevel": 110,
-        "membership": true
-      }
+      "id": 109
     },
     "skillLevels": {
       "Attack": 99,
@@ -642,18 +543,7 @@
     "combatLevel": 100,
     "highestSkillLevels": ["Mining", "Smithing", "Runecraft"],
     "clan": {
-      "id": 101,
-      "name": "Flemish Gamers",
-      "description": "A clan for flemish people, focused on PvM.",
-      "leader": "Nostalg",
-      "isActive": true,
-      "foundedYear": 2017,
-      "totalMembers": 100,
-      "requirements": {
-        "totalLevel": 2100,
-        "combatLevel": 110,
-        "membership": true
-      }
+      "id": 110
     },
     "skillLevels": {
       "Attack": 99,
