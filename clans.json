@@ -10,24 +10,24 @@
     "totalMembers": 77,
     "totalLevelAverage": 1200,
     "requirements": {
-      "totalLevel": 2100,
-      "combatLevel": 110,
-      "membership": true
+      "totalLevel": 1000,
+      "combatLevel": 80,
+      "membership": false
     }
   },
   {
     "id": 102,
     "bannerUrl": "https://raw.githubusercontent.com/vandenkieboom/hosting/main/images/deeps.jpeg",
     "name": "Deeps 4 Geeps",
-    "description": "Deeps 4 Geeps is a Social and PvM Clan",
+    "description": "A Social and PvM Clan",
     "leader": "Goondox",
     "isActive": true,
     "foundedYear": 2011,
     "totalMembers": 500,
     "totalLevelAverage": 2104,
     "requirements": {
-      "totalLevel": 2100,
-      "combatLevel": 110,
+      "totalLevel": 1850,
+      "combatLevel": 100,
       "membership": true
     }
   },
@@ -40,31 +40,10 @@
     "isActive": true,
     "foundedYear": 2015,
     "totalMembers": 487,
-    "totalLevelAverage": 1629,
-    "requirements": {
-      "totalLevel": 2100,
-      "combatLevel": 110,
-      "membership": true
-    }
+    "totalLevelAverage": 1629
   },
   {
     "id": 104,
-    "bannerUrl": "https://raw.githubusercontent.com/vandenkieboom/hosting/main/images/realmofgods.jpeg",
-    "name": "Realm of Gods",
-    "description": "A social clan focused on skilling and PvM activities.",
-    "leader": "Re4per",
-    "isActive": true,
-    "foundedYear": 2007,
-    "totalMembers": 460,
-    "totalLevelAverage": 2054,
-    "requirements": {
-      "totalLevel": 2100,
-      "combatLevel": 110,
-      "membership": true
-    }
-  },
-  {
-    "id": 105,
     "bannerUrl": "https://raw.githubusercontent.com/vandenkieboom/hosting/main/images/magma.jpeg",
     "name": "Magma",
     "description": "Magma is a PvM And Community Clan that brings people together.",
@@ -74,29 +53,29 @@
     "totalMembers": 465,
     "totalLevelAverage": 2120,
     "requirements": {
-      "totalLevel": 2100,
+      "totalLevel": 2000,
       "combatLevel": 110,
       "membership": true
     }
   },
   {
-    "id": 106,
+    "id": 105,
     "bannerUrl": "https://raw.githubusercontent.com/vandenkieboom/hosting/main/images/yanille.jpeg",
     "name": "Yanille",
-    "description": "Yanille is a community based clan which offers a diverse and flexible playstyle.",
+    "description": "Yanille is a community based clan which offers a diverse playstyle.",
     "leader": "Artisan",
     "isActive": true,
     "foundedYear": 2009,
     "totalMembers": 383,
     "totalLevelAverage": 1610,
     "requirements": {
-      "totalLevel": 2100,
-      "combatLevel": 110,
+      "totalLevel": 1140,
+      "combatLevel": 70,
       "membership": true
     }
   },
   {
-    "id": 107,
+    "id": 106,
     "bannerUrl": "https://raw.githubusercontent.com/vandenkieboom/hosting/main/images/luminous.jpeg",
     "name": "Luminous",
     "description": "A social clan focused on skilling and PvM activities.",
@@ -104,10 +83,21 @@
     "isActive": false,
     "foundedYear": 2017,
     "totalMembers": 479,
-    "totalLevelAverage": 1907,
+    "totalLevelAverage": 1907
+  },
+  {
+    "id": 107,
+    "bannerUrl": "https://raw.githubusercontent.com/vandenkieboom/hosting/main/images/realmofgods.jpeg",
+    "name": "Realm of Gods",
+    "description": "A social clan focused on skilling and PvM activities.",
+    "leader": "Re4per",
+    "isActive": true,
+    "foundedYear": 2007,
+    "totalMembers": 460,
+    "totalLevelAverage": 2054,
     "requirements": {
-      "totalLevel": 2100,
-      "combatLevel": 110,
+      "totalLevel": 2000,
+      "combatLevel": 100,
       "membership": true
     }
   },
@@ -122,8 +112,8 @@
     "totalMembers": 195,
     "totalLevelAverage": 2277,
     "requirements": {
-      "totalLevel": 2100,
-      "combatLevel": 110,
+      "totalLevel": 2277,
+      "combatLevel": 126,
       "membership": true
     }
   },
@@ -131,15 +121,15 @@
     "id": 109,
     "bannerUrl": "https://raw.githubusercontent.com/vandenkieboom/hosting/main/images/reignofterror.jpeg",
     "name": "Reign of Terror",
-    "description": "A social clan focused on skilling and PvM activities.",
+    "description": "Best PvP clan in osrs.",
     "leader": "Brian289",
     "isActive": false,
     "foundedYear": 2004,
     "totalMembers": 213,
     "totalLevelAverage": 1807,
     "requirements": {
-      "totalLevel": 2100,
-      "combatLevel": 110,
+      "totalLevel": 1000,
+      "combatLevel": 126,
       "membership": true
     }
   },
@@ -152,11 +142,6 @@
     "isActive": false,
     "foundedYear": 2019,
     "totalMembers": 277,
-    "totalLevelAverage": 2014,
-    "requirements": {
-      "totalLevel": 1700,
-      "combatLevel": 80,
-      "membership": true
-    }
+    "totalLevelAverage": 2014
   }
 ]
